@@ -1,5 +1,5 @@
 import re, numpy as np, pandas as pd
-F="/mnt/user-data/uploads/CoolTerm_Capture__Untitled_0__2026-08-12_10-42-38-203.txt"
+F="../data/water_quality/coolterm_capture_2026-08-06_mission.txt"
 pat=re.compile(r'^060826;(\d+\.\d+);([\-0-9.]+);([\-0-9.]+);([\-0-9.]+);([^;]*);([^;]*);([^;]*);([^;]*);?')
 tp=re.compile(r'\$PVHY2,\d+,\d+,([\-0-9.]+),')
 cat=re.compile(r'^(-?\d+\.\d+)(-\d+\.\d+)$')

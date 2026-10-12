@@ -6,3 +6,5 @@ shapely
 scikit-learn
 opencv-python
 PyMuPDF
+# covplan (area-based coverage path planner, Ramkumar Sudha et al.) must be installed separately:
+#   see path_planning/README.md

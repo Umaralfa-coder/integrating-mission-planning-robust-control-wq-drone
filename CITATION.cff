@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Integrating Mission Planning and Robust Control for Water Quality Monitoring with an Aquatic Surface Drone: code and supplementary material"
+type: software
+authors:
+  - family-names: Alfa
+    given-names: Umar
+    email: umar.alfa@imt-nord-europe.fr
+    affiliation: "CERI Digital Systems, IMT Nord Europe, University of Lille"
+  - family-names: Tijjani
+    given-names: Auwal Shehu
+  - family-names: Fabresse
+    given-names: Luc
+  - family-names: Houe Ngouna
+    given-names: Raymond
+  - family-names: Duviella
+    given-names: Eric
+  - family-names: Gouguet
+    given-names: Adam
+  - family-names: Bouraqadi
+    given-names: Noury
+repository-code: "https://github.com/Umaralfa-coder/integrating-mission-planning-robust-control-wq-drone"
+keywords:
+  - surface aquatic drone
+  - coverage path planning
+  - differential evolution
+  - sliding mode control
+  - Gaussian processes
+  - water quality monitoring
