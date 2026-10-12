@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.pkl
+.DS_Store
+!path_planning/aoi8_rings.pkl
